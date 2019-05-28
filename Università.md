@@ -9,5 +9,5 @@
 
 ---
 
-* [Piano Didattico](https://corsi.unibo.it/laurea/informatica/insegnamenti/piano?code=8009&year=2018&manifest=Manifesto-2018_8009_000_000_2017)
+* [Piano Didattico](https://corsi.unibo.it/laurea/informatica/insegnamenti/piano?code=8009&year=2019&manifest=it_2019_8009_000_000_2017)
 
